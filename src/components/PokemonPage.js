@@ -48,7 +48,7 @@ class PokemonPage extends React.Component {
   
   render() {
     return (
-      <Container pokemons={this.state.pokemon}>
+      <Container>
         <h1>Pokemon Searcher</h1>
         <br />
         <PokemonForm handleSubmit={this.handleSubmit}/>
