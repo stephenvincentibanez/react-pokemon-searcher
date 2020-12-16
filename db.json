@@ -1340,6 +1340,51 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Baby222",
+      "hp": "tdsa",
+      "sprites": {
+        "front": "dtsa",
+        "back": "sda"
+      },
+      "id": 151
+    },
+    {
+      "name": "Furby",
+      "hp": "tdsa",
+      "sprites": {
+        "front": "dtsa",
+        "back": "tdsa"
+      },
+      "id": 152
+    },
+    {
+      "name": "Furby",
+      "hp": "tdsa",
+      "sprites": {
+        "front": "dtsa",
+        "back": "sda"
+      },
+      "id": 153
+    },
+    {
+      "name": "Lacey",
+      "hp": "4324",
+      "sprites": {
+        "front": "https://cdn.vox-cdn.com/thumbor/Uyz9WnKVG7bcbG6mFKJGaR3CEHw=/0x0:1176x653/1200x800/filters:focal(489x68:677x256)/cdn.vox-cdn.com/uploads/chorus_image/image/66072021/Screen_Shot_2020_01_09_at_11.40.51_AM.0.png",
+        "back": "https://cdn.vox-cdn.com/thumbor/L57miqouNU6V56zoq0YFZrlAEHo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19590794/Screen_Shot_2020_01_09_at_5.25.48_PM.png"
+      },
+      "id": 154
+    },
+    {
+      "name": "Bamboo",
+      "hp": "wonde",
+      "sprites": {
+        "front": "fjdk",
+        "back": "jkdls"
+      },
+      "id": 155
     }
   ]
 }
